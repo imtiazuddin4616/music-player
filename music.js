@@ -32,3 +32,11 @@ progress.onchange =function(){
     ctrlIcon.classList.add("fa-pause")
     ctrlIcon.classList.remove("fa-play")
 }
+
+
+
+
+
+
+
+
